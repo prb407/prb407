@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @prb407
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-prb407/prb407 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- :zap: I love math, programming and data science
+- 🌱 I’m addicted to learning and growing every day
+- :earth_africa: I am currently sharing a little bit of my knowledge to the world through my projects
+- 📫 How to find me: 
+  - :office: [LinkedIn](https://www.linkedin.com/in/pritesh-bhanderi/)
